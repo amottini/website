@@ -1,0 +1,33 @@
+/*************************************************
+ *  An Example Green Theme for Hugo Academic
+ *  Set `custom_css = ["green.css"] in `config.toml`.
+ *  Then save this file as `/static/css/green.css` relative to your website root (i.e. not in `themes/academic` directory).
+ *  https://github.com/gcushen/hugo-academic
+ 
+ 
+ * solo comabio lo que quiero, en este caso, la font size de base, el resto esta hecho relativo a este (org=16)
+ * muy raro, si activo este css, auqnue solo copie pegue (porque sigue siendo 16) me achica la font...
+ **************************************************/
+
+ /* para achicar letra */
+ html {
+  font-family: 'Merriweather', serif;
+  font-size: 16px;
+  color: rgba(0,0,0,0.8);
+  line-height: 1.65;
+}
+
+
+ /* para centrar caption figures */
+figure {
+    text-align: center;
+    margin: 10px auto; /* not needed unless you want centered */
+}
+
+
+
+
+ /* para poder poner 2 imagnes distitas en la misma linea */
+.inner_block {
+    display: inline-block;
+}
