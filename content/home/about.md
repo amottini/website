@@ -41,8 +41,8 @@ weight = 1
 
 # About Me
 
-I am a Data Scientist at the Innovation and Research Team in the [Amadeus IT Group](http://www.amadeus.com/ "Amadeus's Homepage") . My main activities include conceptualizing new research ideas, performing data analysis and developing prototypes for applications in the travel industry (airlines, airports, etc), helping solve business problems
-with innovative technologies. We collaborate with other internal teams, customers and third parties (academic, start-ups) on diverse topics such as applied machine learning, advertising, personalization and social media analysis.
+I am a Data Scientist at the Innovation and Research Team in the [Amadeus IT Group](http://www.amadeus.com/ "Amadeus's Homepage") . My main activities include conceptualizing new research ideas, developing prototypes and performing data analysis for applications in the travel industry (airlines, airports, etc), helping solve business problems
+with innovative technologies. We collaborate with other internal teams, customers and third parties (academic, start-ups) on diverse topics such as deep learning, digital advertising, personalization and social media analysis.
 
 In 2014 I obtained my Ph.D. in Automation and Signal Processing in [INRIA](https://www.inria.fr/centre/sophia "INRIA's Homepage") and the University of Nice Sophia Antipolis (France). My thesis was entitled ["Axonal Morphology Analysis: From Image Processing to Modeling"](https://hal.inria.fr/tel-01074620 "PhD Thesis") and focused on the morphological analysis and classification of axonal trees using different mathematical and machine learning techniques.
 
@@ -53,4 +53,4 @@ I have also worked as an Integration Engineer in [Ericsson](https://www.ericsson
 
 For any questions or comments, feel free to contact me.
 
-**Last update**: 11 August 2017.
+**Last update**: 18 October 2017.
