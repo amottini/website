@@ -1,6 +1,6 @@
 baseurl = "https://amottini.github.io/"
 title = "Alejandro Mottini"
-copyright = "&copy; 2017 Alejandro Mottini"
+copyright = "&copy; 2018 Alejandro Mottini"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -22,12 +22,12 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Alejandro Mottini"
-  role = "Data Scientist, PhD"
-  organization = "Amadeus IT Group"
+  role = "Applied Scientist, PhD"
+  organization = "Amazon"
   #avatar = "cv2.jpg"
   avatar = "cv1.jpg"
   #email = "alejandro.mottinidoliveira@amadeus.com"
-  address = "Nice, France"
+  address = "Seattle, USA"
   office_hours = ""
   phone = ""
   #skype = "echo123"

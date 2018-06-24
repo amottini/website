@@ -17,6 +17,7 @@ weight = 2
 
 Past professional and research experience:
 
+- **Applied Scientist**, *Amazon, Alexa Personalization*, Seattle, USA
 - **Data Scientist**, *Amadeus IT Group, Innovation and Research Division*, France
 - **Teaching Assistant**, *Dept. of Informatics, University of Nice Sophia Antipolis*, France
 - **Research Internship**, *Ariana Research Team, INRIA*, France
