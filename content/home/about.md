@@ -42,7 +42,7 @@ weight = 1
 # About Me
 
 
-I'm an Applied Scientist in Amazon Alexa, where I participate in the development, evaluation and deployment of machine learning models and analytical solutions with an emphasis in personalizing the Alexa experience. The team's end goal is to deliver an instantly familiar personal assistant for our customers through the application of cutting-edge scientific techniques
+I'm an Applied Scientist in [Amazon Alexa](https://amazon.jobs/en/business_categories/alexa "Amazon Alexa"), where I participate in the development, evaluation and deployment of machine learning models and analytical solutions with an emphasis in personalizing the Alexa experience. The team's end goal is to deliver an instantly familiar personal assistant for our customers through the application of cutting-edge scientific techniques
 
 I was previously a Data Scientist at the Innovation and Research Team in the [Amadeus IT Group](http://www.amadeus.com/ "Amadeus's Homepage") . My main activities included conceptualizing new research ideas, developing prototypes and performing data analysis for applications in the travel industry.
 
